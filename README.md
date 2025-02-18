@@ -1,1 +1,1 @@
-# react-js-developer-interview-questions-and-answers
+# react-and-javascript-developer-interview-questions
